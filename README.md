@@ -18,6 +18,6 @@ Front-End
 5) npm thunk
 6) npm axios
 
-
+In index.js file use your Authentication  
 
 
